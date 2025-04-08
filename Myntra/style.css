@@ -1,0 +1,150 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+nav{
+   
+    background: #ffffff;
+    height: 10vh;
+    width: 100%;
+ margin-top: 8px;
+    display: flex;align-items: center;
+    justify-content: space-evenly;
+    font-family: 'Roboto', sans-serif;
+    color: #4c4b4b;
+    
+}
+#new{
+    font-size: 9px;
+    color: red;
+}
+.logo{
+    width: 8%;
+    display: flex;
+    height: 11.5vh;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#logoimg{
+    width: 60px;
+    height: 50px;
+}
+
+div:not(.logo){
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+    width: 42%;
+    height: 11.5vh;
+    font-size: small;
+    
+}
+nav>.search-bar{
+    width: 33%;
+    
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+   
+   
+    
+}
+#search{
+    width: 100%;
+    height: 6vh;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    border: #c2dce8 solid 1px;
+    border-radius: 5px ;
+    
+}
+nav>.profile{
+   width: 4%;
+    height: 7vh;
+    display: flex;
+    justify-content: space-evenly;
+   
+    font-family: 'Roboto', sans-serif;
+    font-size: medium;
+    flex-direction: column;
+    align-items: center;
+  
+}
+nav>.wishlist{
+    width: 4%;
+    height: 7vh;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: small;
+    font-family: 'Roboto', sans-serif;
+    font-size: medium;
+    flex-direction: column;
+    align-items: center;
+   
+   
+
+}
+nav>.bag{
+    width: 4%;
+    height: 7vh;
+    display: flex;
+    justify-content: space-evenly;
+    
+    font-family: 'Roboto', sans-serif;
+    font-size: medium;
+    flex-direction: column;
+    align-items: center;
+
+
+
+}
+nav>.sale{
+    width: 1000vw;
+    height: 8vh;
+    background: rgb(238, 248, 253);
+    display: inline-block;
+}
+nav>.sale>p{
+    font-size: medium;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 12px;
+}
+.banner1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    width: 100%;
+    margin-left: 150px;
+    font-size: larger;
+   
+}
+.banner>img{
+    height: 50vh;
+    width: 150px;
+}
+.banner2>#img1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 330px;
+    margin-left: 150px;
+    width: 100%;
+    height: 50vh;
+}
+.banner2>#img2{
+   
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 330px;
+        width: 100%;
+        height: 50vh;
+}
