@@ -202,3 +202,178 @@ nav>.sale>p{
     margin-top: 240px;
     margin-left: 50px; 
  }
+
+ .luxurybrands h1 {
+    height: 15vh;
+    /* border: 1px solid; */
+    display: flex;
+    align-items: center;
+    padding: 0px 0px 0px 50px;
+    margin-top: 200px;
+  }
+  .luxurybrands section {
+    display: flex;
+  }
+  .luxurybrands div {
+    margin-top: 60px;
+    width: 20%;
+    height: 45vh;
+    border: 1px solid;
+    
+  }
+
+  
+ .worthybrands h1 {
+    height: 15vh;
+    /* border: 1px solid; */
+    display: flex;
+    align-items: center;
+    padding: 0px 0px 0px 50px;
+    margin-top: 75px;
+  }
+  .worthybrands section {
+    display: flex;
+  }
+  .worthybrands div {
+    margin-top: 60px;
+    width: 20%;
+    height: 45vh;
+    border: 1px solid;
+    
+  }
+
+  .worthybrands h1 {
+    height: 15vh;
+    /* border: 1px solid; */
+    display: flex;
+    align-items: center;
+    padding: 0px 0px 0px 50px;
+    margin-top: 75px;
+  }
+  .worthybrands section {
+    display: flex;
+  }
+  .worthybrands div {
+    margin-top: 60px;
+    width: 20%;
+    height: 45vh;
+    border: 1px solid;
+    
+  }
+
+  .Globalbrands h1 {
+    height: 15vh;
+    /* border: 1px solid; */
+    display: flex;
+    align-items: center;
+    padding: 0px 0px 0px 50px;
+    margin-top: 75px;
+  }
+  .Globalbrands section {
+    display: flex;
+  }
+  .Globalbrands div {
+    margin-top: 60px;
+    width: 20%;
+    height: 45vh;
+    border: 1px solid;
+    
+  }
+
+  .category1 h1 {
+    height: 15vh;
+    /* border: 1px solid; */
+    display: flex;
+    align-items: center;
+    padding: 0px 0px 0px 50px;
+    margin-top: 75px;
+  }
+  .category1 section {
+    display: flex;
+  }
+  .category1 div {
+    margin-top: 60px;
+    width: 20%;
+    height: 45vh;
+    border: 15px solid;
+    
+  }
+
+  
+  .category2 section {
+    display: flex;
+  }
+  .category2 div {
+    margin-top: 25px;
+    width: 20%;
+    height: 45vh;
+    border: 15px solid;
+    
+  }
+
+  .category3 section {
+    display: flex;
+  }
+  .category3 div {
+    margin-top: 25px;
+    width: 20%;
+    height: 45vh;
+    border: 15px solid;
+    
+  }
+
+  .category4 section {
+    display: flex;
+  }
+  .category4 div {
+    margin-top: 25px;
+    width: 20%;
+    height: 45vh;
+    border: 15px solid;
+    
+  }
+
+  .category5 section {
+    display: flex;
+  }
+  .category5 div {
+    margin-top: 25px;
+    width: 20%;
+    height: 45vh;
+    border: 15px solid;
+    
+  }
+  .category6 section {
+    display: flex;
+    margin-left: 380px;
+  }
+  .category6 div {
+    margin-top: 25px;
+    width: 23%;
+    height: 45vh;
+    border: 15px solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+    
+  }
+
+  .discounts{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+  }
+  /* .discounts>div{
+    width: 50px;
+    height: 250px;
+    background: saddlebrown;
+    margin-left: 1310px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+   
+  } */
